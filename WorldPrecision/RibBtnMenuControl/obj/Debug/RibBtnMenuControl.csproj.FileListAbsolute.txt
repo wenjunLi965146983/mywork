@@ -1,0 +1,80 @@
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+F:\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+F:\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+F:\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+F:\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+F:\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+F:\杨梦涛\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.dll
+F:\杨梦涛\WorldPrecision\RibBtnMenuControl\bin\Debug\RibBtnMenuControl.pdb
+F:\杨梦涛\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csprojResolveAssemblyReference.cache
+F:\杨梦涛\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache
+F:\杨梦涛\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.dll
+F:\杨梦涛\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.pdb
+F:\WorldPrecision\RibBtnMenuControl\obj\Debug\RibBtnMenuControl.csproj.CoreCompileInputs.cache

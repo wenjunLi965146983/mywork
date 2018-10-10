@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<HardwareDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listHardwareData>
+    <HardwareData xsi:type="KeyenceSR700Data">
+      <Index>0</Index>
+      <Vender>Keyence</Vender>
+      <Type>CodeReader</Type>
+      <Series>Keyence_CodeReader_SR700</Series>
+      <Name>内线读码器</Name>
+      <Text>内线读码器</Text>
+      <strStartCode />
+      <strEndCode />
+      <strTriggerCmd>cmd</strTriggerCmd>
+      <iTimeout>500</iTimeout>
+      <protocol>TcpIP</protocol>
+      <IP>169.254.153.109</IP>
+      <Port>9000</Port>
+      <SerialPort />
+      <Buad>9600</Buad>
+      <DataBits>8</DataBits>
+      <Parity>None</Parity>
+      <StopBits>One</StopBits>
+    </HardwareData>
+    <HardwareData xsi:type="KeyenceSR700Data">
+      <Index>0</Index>
+      <Vender>Keyence</Vender>
+      <Type>CodeReader</Type>
+      <Series>Keyence_CodeReader_SR700</Series>
+      <Name>外线读码器</Name>
+      <Text>外线读码器</Text>
+      <strStartCode />
+      <strEndCode />
+      <strTriggerCmd>cmd</strTriggerCmd>
+      <iTimeout>500</iTimeout>
+      <protocol>TcpIP</protocol>
+      <IP>192.168.0.1</IP>
+      <Port>9000</Port>
+      <SerialPort />
+      <Buad>9600</Buad>
+      <DataBits>8</DataBits>
+      <Parity>None</Parity>
+      <StopBits>One</StopBits>
+    </HardwareData>
+  </listHardwareData>
+</HardwareDoc>

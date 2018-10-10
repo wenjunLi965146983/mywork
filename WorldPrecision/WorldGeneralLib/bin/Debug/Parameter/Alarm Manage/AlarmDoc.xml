@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<AlarmDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listAlarmItems>
+    <AlarmData>
+      <AlarmKey>0001</AlarmKey>
+      <AlarmName>未选择停机原因</AlarmName>
+      <AlarmSrc>PC</AlarmSrc>
+      <AlarmMsg>停机时间超时，未选择停机原因</AlarmMsg>
+      <AlarmRemark>For Catl alarm style.</AlarmRemark>
+      <AlarmTime>0001-01-01T00:00:00</AlarmTime>
+    </AlarmData>
+    <AlarmData>
+      <AlarmKey>002</AlarmKey>
+      <AlarmName>Alarm_2</AlarmName>
+      <AlarmSrc>Omron_PlcOmronTypeNX1P_1</AlarmSrc>
+      <AlarmMsg>Err - 002 : Omron_PlcOmronTypeNX1P_1  Alarm 2</AlarmMsg>
+      <AlarmRemark />
+      <AlarmTime>0001-01-01T00:00:00</AlarmTime>
+    </AlarmData>
+    <AlarmData>
+      <AlarmKey>001</AlarmKey>
+      <AlarmName>Alarm_1</AlarmName>
+      <AlarmSrc>Omron_PlcOmronTypeNX1P_1</AlarmSrc>
+      <AlarmMsg>Omron Plc NX1P alarm.</AlarmMsg>
+      <AlarmRemark />
+      <AlarmTime>0001-01-01T00:00:00</AlarmTime>
+    </AlarmData>
+    <AlarmData>
+      <AlarmKey>003</AlarmKey>
+      <AlarmName>Alarm_3</AlarmName>
+      <AlarmSrc>Omron_PlcOmronTypeNX1P_1</AlarmSrc>
+      <AlarmMsg>Err - 003 : Omron_PlcOmronTypeNX1P_1  Alarm 3</AlarmMsg>
+      <AlarmRemark />
+      <AlarmTime>0001-01-01T00:00:00</AlarmTime>
+    </AlarmData>
+    <AlarmData>
+      <AlarmKey>004</AlarmKey>
+      <AlarmName>Alarm_4</AlarmName>
+      <AlarmSrc>Omron_PlcOmronTypeNX1P_1</AlarmSrc>
+      <AlarmMsg>Err - 004 : Omron_PlcOmronTypeNX1P_1  Alarm 4</AlarmMsg>
+      <AlarmRemark />
+      <AlarmTime>0001-01-01T00:00:00</AlarmTime>
+    </AlarmData>
+  </listAlarmItems>
+</AlarmDoc>

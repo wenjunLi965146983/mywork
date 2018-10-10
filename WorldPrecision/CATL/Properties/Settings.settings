@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CATL.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CATL_WebReference_MiCheckSFCStatusServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ndmesd003.ATLbattery.com:50000/atlmeswebservice/MiCheckSFCStatusServiceService</Value>
+    </Setting>
+    <Setting Name="CATL_WebReferenc2_MachineIntegrationServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://ndmesd003.ATLbattery.com:50000/atlmeswebservice/MachineIntegrationServiceService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

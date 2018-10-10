@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<HardwareDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listHardwareData>
+    <HardwareData xsi:type="LeadShineMotionCardData">
+      <Index>0</Index>
+      <Type>MotionCard</Type>
+      <Vender>LeadShine</Vender>
+      <ShowSettingWindow>false</ShowSettingWindow>
+      <Name>LeadShine_MotionCard_1</Name>
+      <Text>LeadShine_MotionCard_1</Text>
+    </HardwareData>
+    <HardwareData xsi:type="YamahaRobotData">
+      <Index>0</Index>
+      <Type>YamahaRobotRCX340</Type>
+      <Vender>Yamaha</Vender>
+      <ShowSettingWindow>false</ShowSettingWindow>
+      <Name>Yamaha_YamahaRobotRCX340_1</Name>
+      <Text>Yamaha_YamahaRobotRCX340_1</Text>
+      <IP>192.168.0.250</IP>
+      <Port>23</Port>
+    </HardwareData>
+  </listHardwareData>
+</HardwareDoc>

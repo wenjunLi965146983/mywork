@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[BSE.Windows.Test.csproj]
+SCC_Aux_Path = "\\bse01\sourcesafe"
+SCC_Project_Name = "$/VS2005/XPanderControls/BSE.Windows/BSE.Windows.Test", JPDAAAAA

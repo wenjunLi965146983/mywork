@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<HardwareDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listHardwareData>
+    <HardwareData xsi:type="Aca500MData">
+      <Index>0</Index>
+      <Vender>Basler</Vender>
+      <Type>Camera</Type>
+      <Series>Basler_Camera_Aca500M</Series>
+      <Name>Basler_Camera_Basler_Camera_Aca500M_1</Name>
+      <Text>Basler_Camera_Basler_Camera_Aca500M_1</Text>
+      <iTimeout>500</iTimeout>
+      <IP>192.168.0.1</IP>
+      <SerialNumber>21893958</SerialNumber>
+      <exposureTime>35000</exposureTime>
+      <shotDelay>0</shotDelay>
+      <imageWidth>0</imageWidth>
+      <imageHeight>0</imageHeight>
+      <AOIWidth>0</AOIWidth>
+      <gainAuto>Off</gainAuto>
+      <gain>0</gain>
+      <maxPictureNumber>2</maxPictureNumber>
+      <strPixelTypeNum>Mono8</strPixelTypeNum>
+    </HardwareData>
+  </listHardwareData>
+</HardwareDoc>

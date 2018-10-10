@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+<DataDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listDataGroup>
+    <DataGroup>
+      <strGroupName>NewGroup_001</strGroupName>
+      <strGroupRemark />
+      <listDataItem>
+        <DataItem>
+          <strItemName>Item_1</strItemName>
+          <strItemRemark>123</strItemRemark>
+          <dataType>Int</dataType>
+          <objValue xsi:type="xsd:string">200</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_20</strItemName>
+          <strItemRemark />
+          <dataType>Int</dataType>
+          <objValue xsi:type="xsd:string">2</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_3</strItemName>
+          <strItemRemark />
+          <dataType>Int</dataType>
+          <objValue xsi:type="xsd:string">3</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_4</strItemName>
+          <strItemRemark />
+          <dataType>Int</dataType>
+          <objValue xsi:type="xsd:string">4</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_5</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">5</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_6</strItemName>
+          <strItemRemark>12356</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">6</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_7</strItemName>
+          <strItemRemark />
+          <dataType>Short</dataType>
+          <objValue xsi:type="xsd:string">7</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_8</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_21651</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_10</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+      </listDataItem>
+    </DataGroup>
+    <DataGroup>
+      <strGroupName>NewGroup_0002</strGroupName>
+      <strGroupRemark />
+      <listDataItem>
+        <DataItem>
+          <strItemName>Item_1</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_2</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_3</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_4</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_5</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_6</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_7</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_8000</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_9</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_10</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>false</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_11</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Item_12</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>true</bVisible>
+        </DataItem>
+      </listDataItem>
+    </DataGroup>
+  </listDataGroup>
+</DataDoc>

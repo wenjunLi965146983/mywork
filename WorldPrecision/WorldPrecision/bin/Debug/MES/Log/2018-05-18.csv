@@ -1,0 +1,27 @@
+13:00:52,dataCollectForSfcEx,,,20610,SFC "123456780" 不存在
+13:00:55,dataCollectForSfcEx,,,20610,SFC "123456780" 不存在
+13:02:58,miCheckSfcStatus,site:2001， operation:NOINJ1,sfc:12313242,1,This SFC is not IN QUEUE in Operation
+13:03:12,dataCollectForSfcEx,,,20610,SFC "123456780" 不存在
+13:14:13,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:14:24,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B71559166,1,This SFC is not IN QUEUE in Operation
+13:14:30,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:14:35,dataCollectForSfcEx,,,20970,用物料: ItemBO:2001，FC-N26-M0H385-5APL，A，设备： ResourceBO:2001，AEFX0001 或工序： OperationBO:2001，ASSEM3，A都找不到DcGroup
+13:17:26,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:17:28,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:17:30,dataCollectForSfcEx,,,20970,用物料: ItemBO:2001，FC-N26-M0H385-5APL，A，设备： ResourceBO:2001，AEFX0001 或工序： OperationBO:2001，ASSEM3，A都找不到DcGroup
+13:17:35,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:17:37,dataCollectForSfcEx,,,20970,用物料: ItemBO:2001，FC-N26-M0H385-5APL，A，设备： ResourceBO:2001，AEFX0001 或工序： OperationBO:2001，ASSEM3，A都找不到DcGroup
+13:17:40,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:17:43,dataCollectForSfcEx,,,20970,用物料: ItemBO:2001，FC-N26-M0H385-5APL，A，设备： ResourceBO:2001，AEFX0001 或工序： OperationBO:2001，ASSEM3，A都找不到DcGroup
+13:18:17,dataCollectForSfcEx,,,16031,脚本错误："N1WAINJ" is not defined. ()
+13:48:18,dataCollectForSfcEx,,,20610,SFC "12345678" 不存在
+13:48:59,dataCollectForSfcEx,,,调用失败！,System.IndexOutOfRangeException: 索引超出了数组界限。    在 CATL.MES.G08.MESClass.DataCollectForSfcEx(String strSFC， SprayingInfo sprayingInfo)
+13:49:18,dataCollectForSfcEx,,,调用失败！,System.IndexOutOfRangeException: 索引超出了数组界限。    在 CATL.MES.G08.MESClass.DataCollectForSfcEx(String strSFC， SprayingInfo sprayingInfo)
+13:50:02,dataCollectForSfcEx,,,20610,SFC "12345678" 不存在
+13:50:48,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:51:02,dataCollectForSfcEx,,,13039,用户 SUP_TEST01 未经认证，无法执行操作 ASSEM3 (消息 13039)
+13:51:16,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:51:21,miCheckSfcStatus,site:2001， operation:ASSEM3,sfc:12B715591662,0,
+13:51:25,dataCollectForSfcEx,,,13039,用户 SUP_TEST01 未经认证，无法执行操作 ASSEM3 (消息 13039)
+13:52:11,dataCollectForSfcEx,,,13013,无法在资源 AEFX0001 上执行操作 ASSEM3；无效资源类型 2EFX (消息 13013)
+13:53:03,dataCollectForSfcEx,,,0,

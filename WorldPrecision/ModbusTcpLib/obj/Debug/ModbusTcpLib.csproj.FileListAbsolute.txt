@@ -1,0 +1,48 @@
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+F:\杨梦涛\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+F:\杨梦涛\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+F:\杨梦涛\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+F:\杨梦涛\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+F:\杨梦涛\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+F:\杨梦涛\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb
+F:\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.dll
+F:\WorldPrecision\ModbusTcpLib\bin\Debug\ModbusTcpLib.pdb
+F:\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csprojResolveAssemblyReference.cache
+F:\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.csproj.CoreCompileInputs.cache
+F:\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.dll
+F:\WorldPrecision\ModbusTcpLib\obj\Debug\ModbusTcpLib.pdb

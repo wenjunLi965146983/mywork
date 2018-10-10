@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<DataDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listDataGroup>
+    <DataGroup>
+      <strGroupName>System</strGroupName>
+      <strGroupRemark />
+      <listDataItem />
+    </DataGroup>
+    <DataGroup>
+      <strGroupName>MESCheckSfcParam</strGroupName>
+      <strGroupRemark />
+      <listDataItem>
+        <DataItem>
+          <strItemName>WSDL</strItemName>
+          <strItemRemark>WS服务器WSDL</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">http://172.26.11.3:50000/atlmeswebservice/MiCheckSFCStatusServiceService?wsdl</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>TimeOut</strItemName>
+          <strItemRemark>WS服务器连接超时设置，毫秒</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">50000</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>User</strItemName>
+          <strItemRemark>连接服务器用户名</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">SUP_TEST01</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Password</strItemName>
+          <strItemRemark>连接服务器用户密码</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">test12345</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>site</strItemName>
+          <strItemRemark>设备所在的站点</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">2001</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>operation</strItemName>
+          <strItemRemark>工位</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">NOINJ1</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>operationRevision</strItemName>
+          <strItemRemark>工位版本</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">#</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+      </listDataItem>
+    </DataGroup>
+    <DataGroup>
+      <strGroupName>MesDataCollectParam</strGroupName>
+      <strGroupRemark />
+      <listDataItem>
+        <DataItem>
+          <strItemName>site</strItemName>
+          <strItemRemark>设备所在的站点</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">2001</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>user</strItemName>
+          <strItemRemark>操作用户</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">SUP_TEST01</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>operation</strItemName>
+          <strItemRemark>工位</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">CECLE1</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>operationRevision</strItemName>
+          <strItemRemark>工位版本</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">#</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>activityId</strItemName>
+          <strItemRemark />
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">EAP_WS</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>resource</strItemName>
+          <strItemRemark>设备资源号</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>dcGroup</strItemName>
+          <strItemRemark>DC采集组</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">*</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>dcGroupRevision</strItemName>
+          <strItemRemark>DC采集组版本号</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">#</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>modeProcessSfc</strItemName>
+          <strItemRemark>过站模式</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string" />
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>WSDL</strItemName>
+          <strItemRemark>WS服务器WSDL</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">http://172.26.11.3:50000/atlmeswebservice/MachineIntegrationServiceService?wsdl</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>TimeOut</strItemName>
+          <strItemRemark>WS服务器连接超时设置，毫秒</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">50000</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>User</strItemName>
+          <strItemRemark>连接服务器用户名</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">SUP_TEST01</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+        <DataItem>
+          <strItemName>Password</strItemName>
+          <strItemRemark>连接服务器用户密码</strItemRemark>
+          <dataType>String</dataType>
+          <objValue xsi:type="xsd:string">test12345</objValue>
+          <bVisible>true</bVisible>
+        </DataItem>
+      </listDataItem>
+    </DataGroup>
+  </listDataGroup>
+</DataDoc>

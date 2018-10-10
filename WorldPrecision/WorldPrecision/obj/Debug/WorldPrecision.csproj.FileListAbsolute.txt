@@ -1,0 +1,961 @@
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\Zhangjian\Temp\Demo\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\OmronFinsTCP.Net.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\TabStrip.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\OmronFinsTCP.Net.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\OmronFinsTCP.Net.xml
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\Backup\20180314 - MES$Andon\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Poon\Desktop\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180429\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Poon\Desktop\20180429-2\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180430\20180430\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Zhangjian\Desktop\20180501\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\20180503\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180504\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Poon\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\新建文件夹\WorldPrecision\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Zhangjian\Desktop\20180505\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\新建文件夹\new\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\Administrator\Desktop\20180506\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\panzhangjian\Desktop\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\20180511\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\20180515\Catl\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+D:\Source\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+D:\Source\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+E:\UncleNull\Project\CATL\G08\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.Form1.resources
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.Form1.resources
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Users\panzhangjian\Desktop\20180621\WorldPrecision-G08\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+D:\Catl\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\Spire.License.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\Spire.Pdf.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\WorldPrecision\bin\Debug\Microsoft.mshtml.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\Spire.License.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\Spire.Pdf.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\bin\Debug\Microsoft.mshtml.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\Spire.License.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\Spire.Pdf.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\Microsoft.mshtml.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\halcondotnet.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\WorldPrecision\bin\Debug\halcondotnet.xml
+F:\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+F:\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\halcondotnet.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+F:\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+F:\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe.config
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.exe
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\NLog.config
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.exe
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WorldPrecision.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\NLog.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\halcondotnet.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\RibBtnMenuControl.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\BSE.Windows.Forms.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\CATL.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\NLog.xml
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WeifenLuo.WinFormsUI.Docking.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\OmronFins.NET.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\IPAddressControlLib.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\ModbusTcpLib.pdb
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csprojResolveAssemblyReference.cache
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormManual.resources
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormProductInfo.resources
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Forms.FormStart.resources
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.Properties.Resources.resources
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.GenerateResource.Cache
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll.config
+F:\杨梦涛\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\Basler.Pylon.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\Basler.Pylon.xml
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\PylonC.NETSupportLibrary.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\PylonC.NET.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\Emgu.CV.UI.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\Emgu.CV.World.dll
+F:\杨梦涛\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\Emgu.CV.UI.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\Emgu.CV.World.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\Basler.Pylon.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\PylonC.NETSupportLibrary.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\PylonC.NET.dll
+F:\WorldPrecision\WorldPrecision\bin\Debug\CATL.dll.config
+F:\WorldPrecision\WorldPrecision\bin\Debug\WorldGeneralLib.dll.config
+F:\WorldPrecision\WorldPrecision\bin\Debug\RibBtnVA.dll.config
+F:\WorldPrecision\WorldPrecision\bin\Debug\Basler.Pylon.xml
+F:\WorldPrecision\WorldPrecision\obj\Debug\WorldPrecision.csproj.CoreCompileInputs.cache

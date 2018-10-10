@@ -1,0 +1,32 @@
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll.config
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.Properties.Resources.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.GenerateResource.Cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll.config
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.Properties.Resources.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.pdb
+F:\杨梦涛\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll.config
+F:\杨梦涛\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll
+F:\杨梦涛\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.pdb
+F:\杨梦涛\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.Properties.Resources.resources
+F:\杨梦涛\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.GenerateResource.Cache
+F:\杨梦涛\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.CoreCompileInputs.cache
+F:\杨梦涛\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.dll
+F:\杨梦涛\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.pdb
+F:\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll.config
+F:\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.dll
+F:\WorldPrecision\RibBtnVA\bin\Debug\RibBtnVA.pdb
+F:\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.Properties.Resources.resources
+F:\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.GenerateResource.Cache
+F:\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.csproj.CoreCompileInputs.cache
+F:\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.dll
+F:\WorldPrecision\RibBtnVA\obj\Debug\RibBtnVA.pdb

@@ -1,0 +1,15 @@
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\bin\Debug\BSE.Windows.Test.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\bin\Debug\BSE.Windows.Test.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\bin\Debug\ar-EG\BSE.Windows.Test.resources.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.CCountrySelectionForm.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.Form1.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.Properties.Resources.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.Form1.ar-EG.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\ar-EG\BSE.Windows.Test.resources.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.exe
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Test\obj\Debug\BSE.Windows.Test.pdb

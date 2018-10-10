@@ -1,0 +1,205 @@
+<?xml version="1.0"?>
+<IODoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <listInput>
+    <IOData>
+      <Name>Input_12</Name>
+      <CardName>LeadShine_MotionCard_1</CardName>
+      <Index>12</Index>
+      <Ignore>false</Ignore>
+      <Inversion>true</Inversion>
+      <Text>A物料感应器</Text>
+      <Remark />
+    </IOData>
+  </listInput>
+  <listOutput>
+    <IOData>
+      <Name>Output_0</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>200</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_0 [200.00]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_1</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>201</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_1 [200.01]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_2</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>202</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_2 [200.02]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_3</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>203</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_3 [200.03]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_4</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>204</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_4 [200.04]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_5</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>205</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_5 [200.05]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_6</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>206</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_6 [200.06]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_7</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>207</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_7 [200.07]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_8</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>208</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_8 [200.08]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_9</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>209</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_9 [200.09]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_10</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>210</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_10 [200.10]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_11</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>211</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_11 [200.11]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_12</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>212</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_12 [200.12]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_13</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>213</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_13 [200.13]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_14</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>214</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_14 [200.14]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_15</Name>
+      <CardName>Omron_PlcOmronNJ_1</CardName>
+      <Index>215</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Out_15 [200.15]</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_16</Name>
+      <CardName>OutputCard</CardName>
+      <Index>0</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Output_16</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_17</Name>
+      <CardName>OutputCard</CardName>
+      <Index>0</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Output_17</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_18</Name>
+      <CardName>OutputCard</CardName>
+      <Index>0</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Output_18</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_19</Name>
+      <CardName>OutputCard</CardName>
+      <Index>0</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Output_19</Text>
+      <Remark />
+    </IOData>
+    <IOData>
+      <Name>Output_20</Name>
+      <CardName>OutputCard</CardName>
+      <Index>0</Index>
+      <Ignore>false</Ignore>
+      <Inversion>false</Inversion>
+      <Text>Output_20</Text>
+      <Remark />
+    </IOData>
+  </listOutput>
+</IODoc>

@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:tns="http://machine.ws.atlmes.com/" targetNamespace="http://machine.ws.atlmes.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xs:schema targetNamespace="http://www.sap.com/me/datacollection" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:simpleType name="ParameterDataType">
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="NUMBER" />
+          <xs:enumeration value="TEXT" />
+          <xs:enumeration value="FORMULA" />
+          <xs:enumeration value="BOOLEAN" />
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:schema>
+    <xs:schema xmlns:ns1="http://www.sap.com/me/datacollection" targetNamespace="http://machine.ws.atlmes.com/" version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+      <xs:import namespace="http://www.sap.com/me/datacollection" />
+      <xs:element name="MachineIntegrationException" type="tns:MachineIntegrationException" />
+      <xs:element name="assemblePlAndDcExRequest" type="tns:assemblePlAndDcExRequest" />
+      <xs:element name="assemblePlAndDcExResponse" type="tns:assemblePlAndDcExResponse" />
+      <xs:element name="assembleProcessLotAndDataCollectEx" type="tns:assembleProcessLotAndDataCollectEx" />
+      <xs:element name="assembleProcessLotAndDataCollectExResponse" type="tns:assembleProcessLotAndDataCollectExResponse" />
+      <xs:element name="assemblyAndDataCollection" type="tns:assemblyAndDataCollection" />
+      <xs:element name="assemblyAndDataCollectionRequestExt" type="tns:assemblyAndDataCollectionRequestExt" />
+      <xs:element name="assemblyAndDataCollectionResponse" type="tns:assemblyAndDataCollectionResponse" />
+      <xs:element name="assemblyAndDataCollectionResponseExt" type="tns:assemblyAndDataCollectionResponseExt" />
+      <xs:element name="assemblyComponent" type="tns:assemblyComponent" />
+      <xs:element name="assemblyComponentResponse" type="tns:assemblyComponentResponse" />
+      <xs:element name="bakingReadyRequest" type="tns:bakingReadyRequest" />
+      <xs:element name="bakingReadyResponse" type="tns:bakingReadyResponse" />
+      <xs:element name="baseResponse" type="tns:baseResponse" />
+      <xs:element name="bindSfcRequest" type="tns:bindSfcRequest" />
+      <xs:element name="bindSfcResponse" type="tns:bindSfcResponse" />
+      <xs:element name="cellInboxAssembly" type="tns:cellInboxAssembly" />
+      <xs:element name="cellInboxAssemblyResponse" type="tns:cellInboxAssemblyResponse" />
+      <xs:element name="cellInboxCompleteAndBindTray" type="tns:cellInboxCompleteAndBindTray" />
+      <xs:element name="cellInboxCompleteAndBindTrayResponse" type="tns:cellInboxCompleteAndBindTrayResponse" />
+      <xs:element name="cellOcvValueRequest" type="tns:cellOcvValueRequest" />
+      <xs:element name="cellOcvValueResponse" type="tns:cellOcvValueResponse" />
+      <xs:element name="cellSfcData" type="tns:cellSfcData" />
+      <xs:element name="checkBomInventory" type="tns:checkBomInventory" />
+      <xs:element name="checkBomInventoryRequestExt" type="tns:checkBomInventoryRequestExt" />
+      <xs:element name="checkBomInventoryResponse" type="tns:checkBomInventoryResponse" />
+      <xs:element name="checkBomInventoryResponseExt" type="tns:checkBomInventoryResponseExt" />
+      <xs:element name="checkPreSfcBindProcessLotRequest" type="tns:checkPreSfcBindProcessLotRequest" />
+      <xs:element name="checkPreSfcBindProcessLotResponse" type="tns:checkPreSfcBindProcessLotResponse" />
+      <xs:element name="completeProcessLotRequest" type="tns:completeProcessLotRequest" />
+      <xs:element name="completeProcessLotResponse" type="tns:completeProcessLotResponse" />
+      <xs:element name="completeSfcRequest" type="tns:completeSfcRequest" />
+      <xs:element name="completeSfcResponse" type="tns:completeSfcResponse" />
+      <xs:element name="componentAssemblyRequest" type="tns:componentAssemblyRequest" />
+      <xs:element name="componentAssemblyResponse" type="tns:componentAssemblyResponse" />
+      <xs:element name="createSfcAndDataCollect" type="tns:createSfcAndDataCollect" />
+      <xs:element name="createSfcAndDataCollectResponse" type="tns:createSfcAndDataCollectResponse" />
+      <xs:element name="dataCollectForCoatingScale" type="tns:dataCollectForCoatingScale" />
+      <xs:element name="dataCollectForCoatingScaleResponse" type="tns:dataCollectForCoatingScaleResponse" />
+      <xs:element name="dataCollectForHotPress" type="tns:dataCollectForHotPress" />
+      <xs:element name="dataCollectForHotPressResponse" type="tns:dataCollectForHotPressResponse" />
+      <xs:element name="dataCollectForModuleTest" type="tns:dataCollectForModuleTest" />
+      <xs:element name="dataCollectForModuleTestResponse" type="tns:dataCollectForModuleTestResponse" />
+      <xs:element name="dataCollectForProcessLot" type="tns:dataCollectForProcessLot" />
+      <xs:element name="dataCollectForProcessLotEx" type="tns:dataCollectForProcessLotEx" />
+      <xs:element name="dataCollectForProcessLotExResponse" type="tns:dataCollectForProcessLotExResponse" />
+      <xs:element name="dataCollectForProcessLotLocalRework" type="tns:dataCollectForProcessLotLocalRework" />
+      <xs:element name="dataCollectForProcessLotLocalReworkResponse" type="tns:dataCollectForProcessLotLocalReworkResponse" />
+      <xs:element name="dataCollectForProcessLotResponse" type="tns:dataCollectForProcessLotResponse" />
+      <xs:element name="dataCollectForResource" type="tns:dataCollectForResource" />
+      <xs:element name="dataCollectForResourceResponse" type="tns:dataCollectForResourceResponse" />
+      <xs:element name="dataCollectForSfc" type="tns:dataCollectForSfc" />
+      <xs:element name="dataCollectForSfcEx" type="tns:dataCollectForSfcEx" />
+      <xs:element name="dataCollectForSfcExResponse" type="tns:dataCollectForSfcExResponse" />
+      <xs:element name="dataCollectForSfcLocalRework" type="tns:dataCollectForSfcLocalRework" />
+      <xs:element name="dataCollectForSfcLocalReworkResponse" type="tns:dataCollectForSfcLocalReworkResponse" />
+      <xs:element name="dataCollectForSfcResponse" type="tns:dataCollectForSfcResponse" />
+      <xs:element name="dcForModuleTestRequest" type="tns:dcForModuleTestRequest" />
+      <xs:element name="dcForModuleTestResponse" type="tns:dcForModuleTestResponse" />
+      <xs:element name="dcPlLocalReworkRequest" type="tns:dcPlLocalReworkRequest" />
+      <xs:element name="dcPlLocalReworkResponse" type="tns:dcPlLocalReworkResponse" />
+      <xs:element name="dcSfcLocalReworkRequest" type="tns:dcSfcLocalReworkRequest" />
+      <xs:element name="dcSfcLocalReworkResponse" type="tns:dcSfcLocalReworkResponse" />
+      <xs:element name="getCellOCVValue" type="tns:getCellOCVValue" />
+      <xs:element name="getCellOCVValueResponse" type="tns:getCellOCVValueResponse" />
+      <xs:element name="getShopOrderReleaseByResource" type="tns:getShopOrderReleaseByResource" />
+      <xs:element name="getShopOrderReleaseByResourceResponse" type="tns:getShopOrderReleaseByResourceResponse" />
+      <xs:element name="headWeldingStartRequest" type="tns:headWeldingStartRequest" />
+      <xs:element name="headWeldingStartResponse" type="tns:headWeldingStartResponse" />
+      <xs:element name="heartbeatValidation" type="tns:heartbeatValidation" />
+      <xs:element name="heartbeatValidationRequest" type="tns:heartbeatValidationRequest" />
+      <xs:element name="heartbeatValidationResponse" type="tns:heartbeatValidationResponse" />
+      <xs:element name="hotPressDcRequest" type="tns:hotPressDcRequest" />
+      <xs:element name="hotPressDcResponse" type="tns:hotPressDcResponse" />
+      <xs:element name="hotPressNcCodeArray" type="tns:hotPressNcCodeArray" />
+      <xs:element name="hotPressParametricData" type="tns:hotPressParametricData" />
+      <xs:element name="inProcessLotPreCheck" type="tns:inProcessLotPreCheck" />
+      <xs:element name="inProcessLotPreCheckResponse" type="tns:inProcessLotPreCheckResponse" />
+      <xs:element name="inboxAssemblyRequest" type="tns:inboxAssemblyRequest" />
+      <xs:element name="inboxAssemblyResponse" type="tns:inboxAssemblyResponse" />
+      <xs:element name="inboxCompleteAndBindTrayRequest" type="tns:inboxCompleteAndBindTrayRequest" />
+      <xs:element name="inboxCompleteAndBindTrayResponse" type="tns:inboxCompleteAndBindTrayResponse" />
+      <xs:element name="injectionRequest" type="tns:injectionRequest" />
+      <xs:element name="injectionResponse" type="tns:injectionResponse" />
+      <xs:element name="isBakingReady" type="tns:isBakingReady" />
+      <xs:element name="isBakingReadyResponse" type="tns:isBakingReadyResponse" />
+      <xs:element name="machineIntegrationParametricData" type="tns:machineIntegrationParametricData" />
+      <xs:element name="machineIntegrationProcessLotDcRequest" type="tns:machineIntegrationProcessLotDcRequest" />
+      <xs:element name="machineIntegrationProcessLotDcResponse" type="tns:machineIntegrationProcessLotDcResponse" />
+      <xs:element name="machineIntegrationResourceDcRequest" type="tns:machineIntegrationResourceDcRequest" />
+      <xs:element name="machineIntegrationResourceDcResponse" type="tns:machineIntegrationResourceDcResponse" />
+      <xs:element name="machineIntegrationSfcDcRequest" type="tns:machineIntegrationSfcDcRequest" />
+      <xs:element name="machineIntegrationSfcDcResponse" type="tns:machineIntegrationSfcDcResponse" />
+      <xs:element name="machineIntegrationSfcNcLogRequest" type="tns:machineIntegrationSfcNcLogRequest" />
+      <xs:element name="machineIntegrationSfcNcLogResponse" type="tns:machineIntegrationSfcNcLogResponse" />
+      <xs:element name="ncSfcParametricData" type="tns:ncSfcParametricData" />
+      <xs:element name="nonConfirmCodeArray" type="tns:nonConfirmCodeArray" />
+      <xs:element name="nonConformanceForProcessLot" type="tns:nonConformanceForProcessLot" />
+      <xs:element name="nonConformanceForProcessLotResponse" type="tns:nonConformanceForProcessLotResponse" />
+      <xs:element name="nonConformanceForSfc" type="tns:nonConformanceForSfc" />
+      <xs:element name="nonConformanceForSfcResponse" type="tns:nonConformanceForSfcResponse" />
+      <xs:element name="processLotComplete" type="tns:processLotComplete" />
+      <xs:element name="processLotCompleteResponse" type="tns:processLotCompleteResponse" />
+      <xs:element name="processLotDcRequestEx" type="tns:processLotDcRequestEx" />
+      <xs:element name="processLotDcResponseEx" type="tns:processLotDcResponseEx" />
+      <xs:element name="processLotNcLogRequest" type="tns:processLotNcLogRequest" />
+      <xs:element name="processLotNcLogResponse" type="tns:processLotNcLogResponse" />
+      <xs:element name="processLotStart" type="tns:processLotStart" />
+      <xs:element name="processLotStartResponse" type="tns:processLotStartResponse" />
+      <xs:element name="resChgRequest" type="tns:resChgRequest" />
+      <xs:element name="resChgResponse" type="tns:resChgResponse" />
+      <xs:element name="resourceStatusChange" type="tns:resourceStatusChange" />
+      <xs:element name="resourceStatusChangeResponse" type="tns:resourceStatusChangeResponse" />
+      <xs:element name="sfcBindPostComplete" type="tns:sfcBindPostComplete" />
+      <xs:element name="sfcBindPostCompleteResponse" type="tns:sfcBindPostCompleteResponse" />
+      <xs:element name="sfcComplete" type="tns:sfcComplete" />
+      <xs:element name="sfcCompleteResponse" type="tns:sfcCompleteResponse" />
+      <xs:element name="sfcCreationAndDcRequest" type="tns:sfcCreationAndDcRequest" />
+      <xs:element name="sfcCreationAndDcResponse" type="tns:sfcCreationAndDcResponse" />
+      <xs:element name="sfcDcCoatingScaleRequest" type="tns:sfcDcCoatingScaleRequest" />
+      <xs:element name="sfcDcCoatingScaleResponse" type="tns:sfcDcCoatingScaleResponse" />
+      <xs:element name="sfcDcExRequest" type="tns:sfcDcExRequest" />
+      <xs:element name="sfcDcExResponse" type="tns:sfcDcExResponse" />
+      <xs:element name="sfcStart" type="tns:sfcStart" />
+      <xs:element name="sfcStartResponse" type="tns:sfcStartResponse" />
+      <xs:element name="shopOrderReleaseByResourceRequest" type="tns:shopOrderReleaseByResourceRequest" />
+      <xs:element name="shopOrderReleaseByResourceResponse" type="tns:shopOrderReleaseByResourceResponse" />
+      <xs:element name="start2ndInjection" type="tns:start2ndInjection" />
+      <xs:element name="start2ndInjectionResponse" type="tns:start2ndInjectionResponse" />
+      <xs:element name="startCompleteRelabeledSFC" type="tns:startCompleteRelabeledSFC" />
+      <xs:element name="startCompleteRelabeledSFCResponse" type="tns:startCompleteRelabeledSFCResponse" />
+      <xs:element name="startHeadWelding" type="tns:startHeadWelding" />
+      <xs:element name="startHeadWeldingResponse" type="tns:startHeadWeldingResponse" />
+      <xs:element name="startProcessLotRequest" type="tns:startProcessLotRequest" />
+      <xs:element name="startProcessLotResponse" type="tns:startProcessLotResponse" />
+      <xs:element name="startRelabelCompleteSFCRequest" type="tns:startRelabelCompleteSFCRequest" />
+      <xs:element name="startRelabelCompleteSFCResponse" type="tns:startRelabelCompleteSFCResponse" />
+      <xs:element name="startSfcRequest" type="tns:startSfcRequest" />
+      <xs:element name="startSfcResponse" type="tns:startSfcResponse" />
+      <xs:complexType name="dataCollectForResource">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="resourceRequest" type="tns:machineIntegrationResourceDcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationResourceDcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationParametricData">
+        <xs:sequence>
+          <xs:element name="name" type="xs:string" />
+          <xs:element name="value" type="xs:string" />
+          <xs:element name="dataType" type="ns1:ParameterDataType" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForResourceResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:machineIntegrationResourceDcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationResourceDcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="MachineIntegrationException">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForSfc">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="SfcDcRequest" type="tns:machineIntegrationSfcDcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationSfcDcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForSfcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:machineIntegrationSfcDcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationSfcDcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForProcessLot">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ProcessLotDcRequest" type="tns:machineIntegrationProcessLotDcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationProcessLotDcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="processLot" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForProcessLotResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:machineIntegrationProcessLotDcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationProcessLotDcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="resourceStatusChange">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ResChgRequest" type="tns:resChgRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="resChgRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="statusCode" type="xs:int" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="resourceStatusChangeResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:resChgResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="resChgResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="baseResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="nonConformanceForSfc">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ncLogRequest" type="tns:machineIntegrationSfcNcLogRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationSfcNcLogRequest">
+        <xs:sequence>
+          <xs:element name="operation" type="xs:string" />
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="ncGroup" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:ncSfcParametricData" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="ncSfcParametricData">
+        <xs:sequence>
+          <xs:element name="ncCode" type="xs:string" />
+          <xs:element name="isNc" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="nonConformanceForSfcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:machineIntegrationSfcNcLogResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="machineIntegrationSfcNcLogResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForProcessLotEx">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="ProcessLotDcRequestEx" type="tns:processLotDcRequestEx" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotDcRequestEx">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="processLot" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="ncGroup" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:ncSfcParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForProcessLotExResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:processLotDcResponseEx" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotDcResponseEx">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForProcessLotLocalRework">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DcPlLocalReworkRequest" type="tns:dcPlLocalReworkRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dcPlLocalReworkRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="processLot" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:ncSfcParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForProcessLotLocalReworkResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:dcPlLocalReworkResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dcPlLocalReworkResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="nonConformanceForProcessLot">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="NonConformanceForProcessLot" type="tns:processLotNcLogRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotNcLogRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element name="processLot" type="xs:string" />
+          <xs:element name="ncGroup" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:ncSfcParametricData" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="nonConformanceForProcessLotResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:processLotNcLogResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotNcLogResponse">
+        <xs:sequence>
+          <xs:element name="code" type="xs:int" />
+          <xs:element name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForSfcEx">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="SfcDcExRequest" type="tns:sfcDcExRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcDcExRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:nonConfirmCodeArray" />
+          <xs:element minOccurs="0" name="isDispositionRequired" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="nonConfirmCodeArray">
+        <xs:sequence>
+          <xs:element name="ncCode" type="xs:string" />
+          <xs:element name="hasNc" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForSfcExResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:sfcDcExResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcDcExResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForModuleTest">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DcForModuleTestRequest" type="tns:dcForModuleTestRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dcForModuleTestRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:dataCollectForSfcModeProcessSfc" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:nonConfirmCodeArray" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForModuleTestResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:dcForModuleTestResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dcForModuleTestResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForSfcLocalRework">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="DcSfcLocalReworkRequest" type="tns:dcSfcLocalReworkRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dcSfcLocalReworkRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:dataCollectForSfcModeProcessSfc" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:nonConfirmCodeArray" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForSfcLocalReworkResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:dcSfcLocalReworkResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dcSfcLocalReworkResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="isBakingReady">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="RequestBakingReady" type="tns:bakingReadyRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="bakingReadyRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="processLotArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="isBakingReadyResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:bakingReadyResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="bakingReadyResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="processLotStart">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="StartProcessLotRequest" type="tns:startProcessLotRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startProcessLotRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="processLotArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotStartResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:startProcessLotResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startProcessLotResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="sfcStart">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="StartSfcRequest" type="tns:startSfcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startSfcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="sfcArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcStartResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:startSfcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startSfcResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="sfcComplete">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CompleteSfcRequest" type="tns:completeSfcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="completeSfcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="sfcArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcCompleteResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:completeSfcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="completeSfcResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="createSfcAndDataCollect">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="SfcCreationAndDcRequest" type="tns:sfcCreationAndDcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcCreationAndDcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="createSfcAndDataCollectResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:sfcCreationAndDcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcCreationAndDcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotComplete">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CompleteProcessLotRequest" type="tns:completeProcessLotRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="completeProcessLotRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="processLotArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="processLotCompleteResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:completeProcessLotResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="completeProcessLotResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellInboxAssembly">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="InboxAssemblyRequest" type="tns:inboxAssemblyRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="inboxAssemblyRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="externalSerial" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellInboxAssemblyResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:inboxAssemblyResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="inboxAssemblyResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellInboxCompleteAndBindTray">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="InboxCompleteAndBindTrayRequest" type="tns:inboxCompleteAndBindTrayRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="inboxCompleteAndBindTrayRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="carrier" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="ncGroup" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:nonConfirmCodeArray" />
+          <xs:element name="externalSerial" type="xs:string" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+          <xs:element name="sfcLocation" type="xs:int" />
+          <xs:element name="ncReplace" type="xs:string" />
+          <xs:element name="ncLevel" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellInboxCompleteAndBindTrayResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:inboxCompleteAndBindTrayResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="inboxCompleteAndBindTrayResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcBindPostComplete">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="BindSfcRequest" type="tns:bindSfcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="bindSfcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="carrier" type="xs:string" />
+          <xs:element name="carrierMode" type="tns:ModeTrayMatrix" />
+          <xs:element name="activityID" type="xs:string" />
+          <xs:element name="modeProcessSfc" type="tns:dataCollectForSfcModeProcessSfc" />
+          <xs:element maxOccurs="unbounded" name="sfcArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcBindPostCompleteResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:bindSfcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="bindSfcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="checkBomInventory">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="BomInventoryCheckRequestExt" type="tns:checkBomInventoryRequestExt" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="checkBomInventoryRequestExt">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="inventoryArray" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="checkBomInventoryResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:checkBomInventoryResponseExt" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="checkBomInventoryResponseExt">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:sequence />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="assemblyAndDataCollection">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AssemblyAndDataCollectionRequestExtPara" type="tns:assemblyAndDataCollectionRequestExt" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="assemblyAndDataCollectionRequestExt">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:machineIntegrationSfcDcRequest">
+            <xs:sequence>
+              <xs:element maxOccurs="unbounded" name="componentArray" type="xs:string" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="assemblyAndDataCollectionResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:assemblyAndDataCollectionResponseExt" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="assemblyAndDataCollectionResponseExt">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:sequence>
+              <xs:element name="result" type="xs:int" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="assembleProcessLotAndDataCollectEx">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="AssemblePlAndDcExRequest" type="tns:assemblePlAndDcExRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="assemblePlAndDcExRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element minOccurs="0" name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:machineIntegrationParametricData" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:nonConfirmCodeArray" />
+          <xs:element maxOccurs="unbounded" name="processLotArray" type="xs:string" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="assembleProcessLotAndDataCollectExResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:assemblePlAndDcExResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="assemblePlAndDcExResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startHeadWelding">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="HeadWeldingStartRequest" type="tns:headWeldingStartRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="headWeldingStartRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element name="workStation" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startHeadWeldingResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:headWeldingStartResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="headWeldingStartResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:sequence>
+              <xs:element name="workStation" type="xs:int" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="assemblyComponent">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:componentAssemblyRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="componentAssemblyRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="inventoryID" type="xs:string" />
+          <xs:element name="activityID" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="assemblyComponentResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:componentAssemblyResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="componentAssemblyResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:all />
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="heartbeatValidation">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="HeartbeatValidationRequest" type="tns:heartbeatValidationRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="heartbeatValidationRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="heartbeatValidationResponse">
+        <xs:sequence>
+          <xs:element name="return" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="start2ndInjection">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="InjectionRequest" type="tns:injectionRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="injectionRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="processLot" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element name="dcGroupRevision" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityID" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataName" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="start2ndInjectionResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:injectionResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="injectionResponse">
+        <xs:sequence>
+          <xs:element name="code" type="xs:int" />
+          <xs:element name="message" type="xs:string" />
+          <xs:element name="result" type="xs:int" />
+          <xs:element maxOccurs="unbounded" name="parametricDatas" type="tns:start2NdInjectionParametricData" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="start2NdInjectionParametricData">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="name" type="xs:string" />
+          <xs:element minOccurs="0" name="value" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForHotPress">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="HotPressDcRequest" type="tns:hotPressDcRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hotPressDcRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="trayAProcessLot" type="xs:string" />
+          <xs:element name="trayBProcessLot" type="xs:string" />
+          <xs:element name="dcGroup" type="xs:string" />
+          <xs:element name="dcGroupRevision" type="xs:string" />
+          <xs:element name="ncGroup" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="activityId" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="parametricDataArray" type="tns:hotPressParametricData" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+          <xs:element maxOccurs="unbounded" name="ncCodeArray" type="tns:hotPressNcCodeArray" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hotPressParametricData">
+        <xs:sequence>
+          <xs:element name="name" type="xs:string" />
+          <xs:element name="trayAValue" type="xs:string" />
+          <xs:element name="trayBValue" type="xs:string" />
+          <xs:element name="dataType" type="ns1:ParameterDataType" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hotPressNcCodeArray">
+        <xs:sequence>
+          <xs:element name="ncCode" type="xs:string" />
+          <xs:element name="trayAHasNc" type="xs:boolean" />
+          <xs:element name="trayBHasNc" type="xs:boolean" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForHotPressResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:hotPressDcResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="hotPressDcResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="codeA" type="xs:int" />
+          <xs:element minOccurs="0" name="messageA" type="xs:string" />
+          <xs:element minOccurs="0" name="codeB" type="xs:int" />
+          <xs:element minOccurs="0" name="messageB" type="xs:string" />
+          <xs:element minOccurs="0" name="returnCode" type="xs:int" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getCellOCVValue">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CellOcvValueRequest" type="tns:cellOcvValueRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellOcvValueRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element minOccurs="0" name="moudleSfc" type="xs:string" />
+          <xs:element minOccurs="0" maxOccurs="unbounded" name="cellSfcs" type="xs:string" />
+          <xs:element name="parameter" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getCellOCVValueResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:cellOcvValueResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="cellOcvValueResponse">
+        <xs:complexContent mixed="false">
+          <xs:extension base="tns:baseResponse">
+            <xs:sequence>
+              <xs:element minOccurs="0" maxOccurs="unbounded" name="cellSfcsData" type="tns:cellSfcData" />
+            </xs:sequence>
+          </xs:extension>
+        </xs:complexContent>
+      </xs:complexType>
+      <xs:complexType name="cellSfcData">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="sfc" type="xs:string" />
+          <xs:element minOccurs="0" name="cellOCV" type="xs:string" />
+          <xs:element minOccurs="0" name="cellOcvDate" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getShopOrderReleaseByResource">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="Request" type="tns:shopOrderReleaseByResourceRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="shopOrderReleaseByResourceRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="mode" type="xs:string" />
+          <xs:element minOccurs="0" name="activity" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="getShopOrderReleaseByResourceResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:shopOrderReleaseByResourceResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="shopOrderReleaseByResourceResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+          <xs:element minOccurs="0" name="sfca" type="xs:string" />
+          <xs:element minOccurs="0" name="sfcb" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startCompleteRelabeledSFC">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="StartRelabelCompleteSFCRequest" type="tns:startRelabelCompleteSFCRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startRelabelCompleteSFCRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="activityID" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startCompleteRelabeledSFCResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:startRelabelCompleteSFCResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="startRelabelCompleteSFCResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="relabeledSFC" type="xs:string" />
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="inProcessLotPreCheck">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="CheckPreSfcBindProcessLotRequest" type="tns:checkPreSfcBindProcessLotRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="checkPreSfcBindProcessLotRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="operation" type="xs:string" />
+          <xs:element minOccurs="0" name="operationRevision" type="xs:string" />
+          <xs:element name="resource" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="activityID" type="xs:string" />
+          <xs:element name="modeProcessSfc" type="tns:ModeProcessSfc" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="inProcessLotPreCheckResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:checkPreSfcBindProcessLotResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="checkPreSfcBindProcessLotResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="code" type="xs:int" />
+          <xs:element minOccurs="0" name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForCoatingScale">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="SfcDcCoatingScaleRequest" type="tns:sfcDcCoatingScaleRequest" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcDcCoatingScaleRequest">
+        <xs:sequence>
+          <xs:element name="site" type="xs:string" />
+          <xs:element name="sfc" type="xs:string" />
+          <xs:element name="user" type="xs:string" />
+          <xs:element name="type" type="tns:dcTypeEnum" />
+          <xs:element name="parameter" type="xs:string" />
+          <xs:element maxOccurs="unbounded" name="valueList" type="xs:float" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="dataCollectForCoatingScaleResponse">
+        <xs:sequence>
+          <xs:element minOccurs="0" name="return" type="tns:sfcDcCoatingScaleResponse" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:complexType name="sfcDcCoatingScaleResponse">
+        <xs:sequence>
+          <xs:element name="code" type="xs:int" />
+          <xs:element name="message" type="xs:string" />
+        </xs:sequence>
+      </xs:complexType>
+      <xs:simpleType name="ModeProcessSfc">
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="MODE_NONE" />
+          <xs:enumeration value="MODE_START_SFC_PRE_DC" />
+          <xs:enumeration value="MODE_COMPLETE_SFC_POST_DC" />
+          <xs:enumeration value="MODE_PASS_SFC_POST_DC" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:simpleType name="dataCollectForSfcModeProcessSfc">
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="MODE_NONE" />
+          <xs:enumeration value="MODE_START_SFC_PRE_DC" />
+          <xs:enumeration value="MODE_COMPLETE_SFC_POST_DC" />
+          <xs:enumeration value="MODE_PASS_SFC_POST_DC" />
+          <xs:enumeration value="MODE_START_AND_COMPLETE_SFC_POST_DC" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:simpleType name="ModeTrayMatrix">
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="ROW-FIRST" />
+          <xs:enumeration value="COLUMN-FIRST" />
+        </xs:restriction>
+      </xs:simpleType>
+      <xs:simpleType name="dcTypeEnum">
+        <xs:restriction base="xs:string">
+          <xs:enumeration value="DC_TYPE_SFC" />
+          <xs:enumeration value="DC_TYPE_RES" />
+        </xs:restriction>
+      </xs:simpleType>
+    </xs:schema>
+  </wsdl:types>
+  <wsdl:message name="dataCollectForResourceIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForResource" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForResourceOut">
+    <wsdl:part name="dataCollectForResourceResponse" element="tns:dataCollectForResourceResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForResourceFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForSfc" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcOut">
+    <wsdl:part name="dataCollectForSfcResponse" element="tns:dataCollectForSfcResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForProcessLot" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotOut">
+    <wsdl:part name="dataCollectForProcessLotResponse" element="tns:dataCollectForProcessLotResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="resourceStatusChangeIn">
+    <wsdl:part name="parameters" element="tns:resourceStatusChange" />
+  </wsdl:message>
+  <wsdl:message name="resourceStatusChangeOut">
+    <wsdl:part name="resourceStatusChangeResponse" element="tns:resourceStatusChangeResponse" />
+  </wsdl:message>
+  <wsdl:message name="nonConformanceForSfcIn">
+    <wsdl:part name="parameters" element="tns:nonConformanceForSfc" />
+  </wsdl:message>
+  <wsdl:message name="nonConformanceForSfcOut">
+    <wsdl:part name="nonConformanceForSfcResponse" element="tns:nonConformanceForSfcResponse" />
+  </wsdl:message>
+  <wsdl:message name="nonConformanceForSfcFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotExIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForProcessLotEx" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotExOut">
+    <wsdl:part name="dataCollectForProcessLotExResponse" element="tns:dataCollectForProcessLotExResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotExFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotLocalReworkIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForProcessLotLocalRework" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotLocalReworkOut">
+    <wsdl:part name="dataCollectForProcessLotLocalReworkResponse" element="tns:dataCollectForProcessLotLocalReworkResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForProcessLotLocalReworkFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="nonConformanceForProcessLotIn">
+    <wsdl:part name="parameters" element="tns:nonConformanceForProcessLot" />
+  </wsdl:message>
+  <wsdl:message name="nonConformanceForProcessLotOut">
+    <wsdl:part name="nonConformanceForProcessLotResponse" element="tns:nonConformanceForProcessLotResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcExIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForSfcEx" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcExOut">
+    <wsdl:part name="dataCollectForSfcExResponse" element="tns:dataCollectForSfcExResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcExFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForModuleTestIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForModuleTest" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForModuleTestOut">
+    <wsdl:part name="dataCollectForModuleTestResponse" element="tns:dataCollectForModuleTestResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForModuleTestFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcLocalReworkIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForSfcLocalRework" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcLocalReworkOut">
+    <wsdl:part name="dataCollectForSfcLocalReworkResponse" element="tns:dataCollectForSfcLocalReworkResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForSfcLocalReworkFault">
+    <wsdl:part name="MachineIntegrationException" element="tns:MachineIntegrationException" />
+  </wsdl:message>
+  <wsdl:message name="isBakingReadyIn">
+    <wsdl:part name="parameters" element="tns:isBakingReady" />
+  </wsdl:message>
+  <wsdl:message name="isBakingReadyOut">
+    <wsdl:part name="isBakingReadyResponse" element="tns:isBakingReadyResponse" />
+  </wsdl:message>
+  <wsdl:message name="processLotStartIn">
+    <wsdl:part name="parameters" element="tns:processLotStart" />
+  </wsdl:message>
+  <wsdl:message name="processLotStartOut">
+    <wsdl:part name="processLotStartResponse" element="tns:processLotStartResponse" />
+  </wsdl:message>
+  <wsdl:message name="sfcStartIn">
+    <wsdl:part name="parameters" element="tns:sfcStart" />
+  </wsdl:message>
+  <wsdl:message name="sfcStartOut">
+    <wsdl:part name="sfcStartResponse" element="tns:sfcStartResponse" />
+  </wsdl:message>
+  <wsdl:message name="sfcCompleteIn">
+    <wsdl:part name="parameters" element="tns:sfcComplete" />
+  </wsdl:message>
+  <wsdl:message name="sfcCompleteOut">
+    <wsdl:part name="sfcCompleteResponse" element="tns:sfcCompleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="createSfcAndDataCollectIn">
+    <wsdl:part name="parameters" element="tns:createSfcAndDataCollect" />
+  </wsdl:message>
+  <wsdl:message name="createSfcAndDataCollectOut">
+    <wsdl:part name="createSfcAndDataCollectResponse" element="tns:createSfcAndDataCollectResponse" />
+  </wsdl:message>
+  <wsdl:message name="processLotCompleteIn">
+    <wsdl:part name="parameters" element="tns:processLotComplete" />
+  </wsdl:message>
+  <wsdl:message name="processLotCompleteOut">
+    <wsdl:part name="processLotCompleteResponse" element="tns:processLotCompleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="cellInboxAssemblyIn">
+    <wsdl:part name="parameters" element="tns:cellInboxAssembly" />
+  </wsdl:message>
+  <wsdl:message name="cellInboxAssemblyOut">
+    <wsdl:part name="cellInboxAssemblyResponse" element="tns:cellInboxAssemblyResponse" />
+  </wsdl:message>
+  <wsdl:message name="cellInboxCompleteAndBindTrayIn">
+    <wsdl:part name="parameters" element="tns:cellInboxCompleteAndBindTray" />
+  </wsdl:message>
+  <wsdl:message name="cellInboxCompleteAndBindTrayOut">
+    <wsdl:part name="cellInboxCompleteAndBindTrayResponse" element="tns:cellInboxCompleteAndBindTrayResponse" />
+  </wsdl:message>
+  <wsdl:message name="sfcBindPostCompleteIn">
+    <wsdl:part name="parameters" element="tns:sfcBindPostComplete" />
+  </wsdl:message>
+  <wsdl:message name="sfcBindPostCompleteOut">
+    <wsdl:part name="sfcBindPostCompleteResponse" element="tns:sfcBindPostCompleteResponse" />
+  </wsdl:message>
+  <wsdl:message name="checkBomInventoryIn">
+    <wsdl:part name="parameters" element="tns:checkBomInventory" />
+  </wsdl:message>
+  <wsdl:message name="checkBomInventoryOut">
+    <wsdl:part name="checkBomInventoryResponse" element="tns:checkBomInventoryResponse" />
+  </wsdl:message>
+  <wsdl:message name="assemblyAndDataCollectionIn">
+    <wsdl:part name="parameters" element="tns:assemblyAndDataCollection" />
+  </wsdl:message>
+  <wsdl:message name="assemblyAndDataCollectionOut">
+    <wsdl:part name="assemblyAndDataCollectionResponse" element="tns:assemblyAndDataCollectionResponse" />
+  </wsdl:message>
+  <wsdl:message name="assembleProcessLotAndDataCollectExIn">
+    <wsdl:part name="parameters" element="tns:assembleProcessLotAndDataCollectEx" />
+  </wsdl:message>
+  <wsdl:message name="assembleProcessLotAndDataCollectExOut">
+    <wsdl:part name="assembleProcessLotAndDataCollectExResponse" element="tns:assembleProcessLotAndDataCollectExResponse" />
+  </wsdl:message>
+  <wsdl:message name="startHeadWeldingIn">
+    <wsdl:part name="parameters" element="tns:startHeadWelding" />
+  </wsdl:message>
+  <wsdl:message name="startHeadWeldingOut">
+    <wsdl:part name="startHeadWeldingResponse" element="tns:startHeadWeldingResponse" />
+  </wsdl:message>
+  <wsdl:message name="assemblyComponentIn">
+    <wsdl:part name="parameters" element="tns:assemblyComponent" />
+  </wsdl:message>
+  <wsdl:message name="assemblyComponentOut">
+    <wsdl:part name="assemblyComponentResponse" element="tns:assemblyComponentResponse" />
+  </wsdl:message>
+  <wsdl:message name="heartbeatValidationIn">
+    <wsdl:part name="parameters" element="tns:heartbeatValidation" />
+  </wsdl:message>
+  <wsdl:message name="heartbeatValidationOut">
+    <wsdl:part name="heartbeatValidationResponse" element="tns:heartbeatValidationResponse" />
+  </wsdl:message>
+  <wsdl:message name="start2ndInjectionIn">
+    <wsdl:part name="parameters" element="tns:start2ndInjection" />
+  </wsdl:message>
+  <wsdl:message name="start2ndInjectionOut">
+    <wsdl:part name="start2ndInjectionResponse" element="tns:start2ndInjectionResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForHotPressIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForHotPress" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForHotPressOut">
+    <wsdl:part name="dataCollectForHotPressResponse" element="tns:dataCollectForHotPressResponse" />
+  </wsdl:message>
+  <wsdl:message name="getCellOCVValueIn">
+    <wsdl:part name="parameters" element="tns:getCellOCVValue" />
+  </wsdl:message>
+  <wsdl:message name="getCellOCVValueOut">
+    <wsdl:part name="getCellOCVValueResponse" element="tns:getCellOCVValueResponse" />
+  </wsdl:message>
+  <wsdl:message name="getShopOrderReleaseByResourceIn">
+    <wsdl:part name="parameters" element="tns:getShopOrderReleaseByResource" />
+  </wsdl:message>
+  <wsdl:message name="getShopOrderReleaseByResourceOut">
+    <wsdl:part name="getShopOrderReleaseByResourceResponse" element="tns:getShopOrderReleaseByResourceResponse" />
+  </wsdl:message>
+  <wsdl:message name="startCompleteRelabeledSFCIn">
+    <wsdl:part name="parameters" element="tns:startCompleteRelabeledSFC" />
+  </wsdl:message>
+  <wsdl:message name="startCompleteRelabeledSFCOut">
+    <wsdl:part name="startCompleteRelabeledSFCResponse" element="tns:startCompleteRelabeledSFCResponse" />
+  </wsdl:message>
+  <wsdl:message name="inProcessLotPreCheckIn">
+    <wsdl:part name="parameters" element="tns:inProcessLotPreCheck" />
+  </wsdl:message>
+  <wsdl:message name="inProcessLotPreCheckOut">
+    <wsdl:part name="inProcessLotPreCheckResponse" element="tns:inProcessLotPreCheckResponse" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForCoatingScaleIn">
+    <wsdl:part name="parameters" element="tns:dataCollectForCoatingScale" />
+  </wsdl:message>
+  <wsdl:message name="dataCollectForCoatingScaleOut">
+    <wsdl:part name="dataCollectForCoatingScaleResponse" element="tns:dataCollectForCoatingScaleResponse" />
+  </wsdl:message>
+  <wsdl:portType name="MachineIntegrationService">
+    <wsdl:operation name="dataCollectForResource" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForResourceIn" />
+      <wsdl:output message="tns:dataCollectForResourceOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForResourceFault" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForSfc" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForSfcIn" />
+      <wsdl:output message="tns:dataCollectForSfcOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForSfcFault" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForProcessLot" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForProcessLotIn" />
+      <wsdl:output message="tns:dataCollectForProcessLotOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForProcessLotFault" />
+    </wsdl:operation>
+    <wsdl:operation name="resourceStatusChange" parameterOrder="parameters">
+      <wsdl:input message="tns:resourceStatusChangeIn" />
+      <wsdl:output message="tns:resourceStatusChangeOut" />
+    </wsdl:operation>
+    <wsdl:operation name="nonConformanceForSfc" parameterOrder="parameters">
+      <wsdl:input message="tns:nonConformanceForSfcIn" />
+      <wsdl:output message="tns:nonConformanceForSfcOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:nonConformanceForSfcFault" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForProcessLotEx" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForProcessLotExIn" />
+      <wsdl:output message="tns:dataCollectForProcessLotExOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForProcessLotExFault" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForProcessLotLocalRework" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForProcessLotLocalReworkIn" />
+      <wsdl:output message="tns:dataCollectForProcessLotLocalReworkOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForProcessLotLocalReworkFault" />
+    </wsdl:operation>
+    <wsdl:operation name="nonConformanceForProcessLot" parameterOrder="parameters">
+      <wsdl:input message="tns:nonConformanceForProcessLotIn" />
+      <wsdl:output message="tns:nonConformanceForProcessLotOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForSfcEx" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForSfcExIn" />
+      <wsdl:output message="tns:dataCollectForSfcExOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForSfcExFault" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForModuleTest" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForModuleTestIn" />
+      <wsdl:output message="tns:dataCollectForModuleTestOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForModuleTestFault" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForSfcLocalRework" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForSfcLocalReworkIn" />
+      <wsdl:output message="tns:dataCollectForSfcLocalReworkOut" />
+      <wsdl:fault name="MachineIntegrationException" message="tns:dataCollectForSfcLocalReworkFault" />
+    </wsdl:operation>
+    <wsdl:operation name="isBakingReady" parameterOrder="parameters">
+      <wsdl:input message="tns:isBakingReadyIn" />
+      <wsdl:output message="tns:isBakingReadyOut" />
+    </wsdl:operation>
+    <wsdl:operation name="processLotStart" parameterOrder="parameters">
+      <wsdl:input message="tns:processLotStartIn" />
+      <wsdl:output message="tns:processLotStartOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sfcStart" parameterOrder="parameters">
+      <wsdl:input message="tns:sfcStartIn" />
+      <wsdl:output message="tns:sfcStartOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sfcComplete" parameterOrder="parameters">
+      <wsdl:input message="tns:sfcCompleteIn" />
+      <wsdl:output message="tns:sfcCompleteOut" />
+    </wsdl:operation>
+    <wsdl:operation name="createSfcAndDataCollect" parameterOrder="parameters">
+      <wsdl:input message="tns:createSfcAndDataCollectIn" />
+      <wsdl:output message="tns:createSfcAndDataCollectOut" />
+    </wsdl:operation>
+    <wsdl:operation name="processLotComplete" parameterOrder="parameters">
+      <wsdl:input message="tns:processLotCompleteIn" />
+      <wsdl:output message="tns:processLotCompleteOut" />
+    </wsdl:operation>
+    <wsdl:operation name="cellInboxAssembly" parameterOrder="parameters">
+      <wsdl:input message="tns:cellInboxAssemblyIn" />
+      <wsdl:output message="tns:cellInboxAssemblyOut" />
+    </wsdl:operation>
+    <wsdl:operation name="cellInboxCompleteAndBindTray" parameterOrder="parameters">
+      <wsdl:input message="tns:cellInboxCompleteAndBindTrayIn" />
+      <wsdl:output message="tns:cellInboxCompleteAndBindTrayOut" />
+    </wsdl:operation>
+    <wsdl:operation name="sfcBindPostComplete" parameterOrder="parameters">
+      <wsdl:input message="tns:sfcBindPostCompleteIn" />
+      <wsdl:output message="tns:sfcBindPostCompleteOut" />
+    </wsdl:operation>
+    <wsdl:operation name="checkBomInventory" parameterOrder="parameters">
+      <wsdl:input message="tns:checkBomInventoryIn" />
+      <wsdl:output message="tns:checkBomInventoryOut" />
+    </wsdl:operation>
+    <wsdl:operation name="assemblyAndDataCollection" parameterOrder="parameters">
+      <wsdl:input message="tns:assemblyAndDataCollectionIn" />
+      <wsdl:output message="tns:assemblyAndDataCollectionOut" />
+    </wsdl:operation>
+    <wsdl:operation name="assembleProcessLotAndDataCollectEx" parameterOrder="parameters">
+      <wsdl:input message="tns:assembleProcessLotAndDataCollectExIn" />
+      <wsdl:output message="tns:assembleProcessLotAndDataCollectExOut" />
+    </wsdl:operation>
+    <wsdl:operation name="startHeadWelding" parameterOrder="parameters">
+      <wsdl:input message="tns:startHeadWeldingIn" />
+      <wsdl:output message="tns:startHeadWeldingOut" />
+    </wsdl:operation>
+    <wsdl:operation name="assemblyComponent" parameterOrder="parameters">
+      <wsdl:input message="tns:assemblyComponentIn" />
+      <wsdl:output message="tns:assemblyComponentOut" />
+    </wsdl:operation>
+    <wsdl:operation name="heartbeatValidation" parameterOrder="parameters">
+      <wsdl:input message="tns:heartbeatValidationIn" />
+      <wsdl:output message="tns:heartbeatValidationOut" />
+    </wsdl:operation>
+    <wsdl:operation name="start2ndInjection" parameterOrder="parameters">
+      <wsdl:input message="tns:start2ndInjectionIn" />
+      <wsdl:output message="tns:start2ndInjectionOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForHotPress" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForHotPressIn" />
+      <wsdl:output message="tns:dataCollectForHotPressOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getCellOCVValue" parameterOrder="parameters">
+      <wsdl:input message="tns:getCellOCVValueIn" />
+      <wsdl:output message="tns:getCellOCVValueOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getShopOrderReleaseByResource" parameterOrder="parameters">
+      <wsdl:input message="tns:getShopOrderReleaseByResourceIn" />
+      <wsdl:output message="tns:getShopOrderReleaseByResourceOut" />
+    </wsdl:operation>
+    <wsdl:operation name="startCompleteRelabeledSFC" parameterOrder="parameters">
+      <wsdl:input message="tns:startCompleteRelabeledSFCIn" />
+      <wsdl:output message="tns:startCompleteRelabeledSFCOut" />
+    </wsdl:operation>
+    <wsdl:operation name="inProcessLotPreCheck" parameterOrder="parameters">
+      <wsdl:input message="tns:inProcessLotPreCheckIn" />
+      <wsdl:output message="tns:inProcessLotPreCheckOut" />
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForCoatingScale" parameterOrder="parameters">
+      <wsdl:input message="tns:dataCollectForCoatingScaleIn" />
+      <wsdl:output message="tns:dataCollectForCoatingScaleOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" name="MachineIntegrationServiceBinding" type="tns:MachineIntegrationService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="dataCollectForResource">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForSfc">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForProcessLot">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="resourceStatusChange">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="nonConformanceForSfc">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForProcessLotEx">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForProcessLotLocalRework">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="nonConformanceForProcessLot">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForSfcEx">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForModuleTest">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForSfcLocalRework">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+      <wsdl:fault name="MachineIntegrationException">
+        <soap:fault use="literal" name="MachineIntegrationException" namespace="" />
+      </wsdl:fault>
+    </wsdl:operation>
+    <wsdl:operation name="isBakingReady">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="processLotStart">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sfcStart">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sfcComplete">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="createSfcAndDataCollect">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="processLotComplete">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cellInboxAssembly">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="cellInboxCompleteAndBindTray">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="sfcBindPostComplete">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="checkBomInventory">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="assemblyAndDataCollection">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="assembleProcessLotAndDataCollectEx">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="startHeadWelding">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="assemblyComponent">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="heartbeatValidation">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="start2ndInjection">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForHotPress">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getCellOCVValue">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getShopOrderReleaseByResource">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="startCompleteRelabeledSFC">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="inProcessLotPreCheck">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="dataCollectForCoatingScale">
+      <soap:operation soapAction="" />
+      <wsdl:input>
+        <soap:body use="literal" parts="parameters" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="MachineIntegrationServiceService">
+    <wsdl:port name="MachineIntegrationServicePort" binding="tns:MachineIntegrationServiceBinding">
+      <address location="http://ndmesd003.ATLbattery.com:50000/atlmeswebservice/MachineIntegrationServiceService" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

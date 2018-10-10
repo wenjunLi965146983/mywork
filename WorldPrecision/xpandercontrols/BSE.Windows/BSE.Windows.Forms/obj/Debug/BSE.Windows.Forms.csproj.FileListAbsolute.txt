@@ -1,0 +1,87 @@
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csprojResolveAssemblyReference.cache
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+F:\杨梦涛\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.dll
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\bin\Debug\BSE.Windows.Forms.pdb
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Properties.Resources.resources
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.Panel.resources
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanel.resources
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.XPanderPanelList.resources
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.GenerateResource.Cache
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.csproj.CoreCompileInputs.cache
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.dll
+F:\WorldPrecision\xpandercontrols\BSE.Windows\BSE.Windows.Forms\obj\Debug\BSE.Windows.Forms.pdb

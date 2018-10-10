@@ -1,0 +1,402 @@
+<?xml version="1.0"?>
+<VisionDoc xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <iCurrSceneIndex>1</iCurrSceneIndex>
+  <listSceneData>
+    <SceneData>
+      <listActionData>
+        <ActionDataBase xsi:type="ActionPreProcessData">
+          <Group>GroupEnhance</Group>
+          <Type>ActionPreProcess</Type>
+          <Name>测量前处理</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <iFilterSize>3</iFilterSize>
+          <iMorSize>3</iMorSize>
+          <iTimes>0</iTimes>
+          <iFTime>0</iFTime>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionAccurateSearchData">
+          <Group>GroupDetectionAndMeasurement</Group>
+          <Type>ActionAccurateSearch</Type>
+          <Name>灵敏搜索</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <iKeyPointNumber>1000</iKeyPointNumber>
+          <fThreshlod>0.8</fThreshlod>
+          <time>0</time>
+        </ActionDataBase>
+      </listActionData>
+      <Name>0</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData>
+        <ActionDataBase xsi:type="ActionAccurateSearchData">
+          <Group>GroupDetectionAndMeasurement</Group>
+          <Type>ActionAccurateSearch</Type>
+          <Name>灵敏搜索</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>39</ModelAOIX>
+          <ModelAOIY>60</ModelAOIY>
+          <ModelAOIWidth>214</ModelAOIWidth>
+          <ModelAOIHeight>134</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <iKeyPointNumber>1000</iKeyPointNumber>
+          <fThreshlod>0.8</fThreshlod>
+          <time>1</time>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionMatchData">
+          <Group>GroupEnhance</Group>
+          <Type>ActionMatch</Type>
+          <Name>位置修正</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>101</ModelAOIX>
+          <ModelAOIY>81</ModelAOIY>
+          <ModelAOIWidth>509</ModelAOIWidth>
+          <ModelAOIHeight>335</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <fOffsetAngle>0</fOffsetAngle>
+          <fOffsetX>1464</fOffsetX>
+          <fOffsetY>1000</fOffsetY>
+          <iKeyPointNumber>0</iKeyPointNumber>
+          <fThreshlod>0</fThreshlod>
+          <time>2</time>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionPreProcessData">
+          <Group>GroupEnhance</Group>
+          <Type>ActionPreProcess</Type>
+          <Name>测量前处理</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <iFilterSize>3</iFilterSize>
+          <iMorSize>3</iMorSize>
+          <iTimes>0</iTimes>
+          <iFTime>0</iFTime>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionBrightCorrectData">
+          <Group>GroupEnhance</Group>
+          <Type>ActionBrightCorrect</Type>
+          <Name>亮度修正过滤</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <iScale>0</iScale>
+          <iInputScale>0</iInputScale>
+          <bDirect>false</bDirect>
+          <bBrightDirect>false</bBrightDirect>
+          <bEqualize>false</bEqualize>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionLineData">
+          <Group>GroupAssist</Group>
+          <Type>ActionLine</Type>
+          <Name>近似直线</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <CThreshold1>0</CThreshold1>
+          <CThreshold2>0</CThreshold2>
+          <rho>0</rho>
+          <theta>0</theta>
+          <threshold>0</threshold>
+          <length>0</length>
+          <gab>0</gab>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionCircleData">
+          <Group>GroupAssist</Group>
+          <Type>ActionCircle</Type>
+          <Name>近似圆</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <ROICircleR>0</ROICircleR>
+          <CThreshold1>0</CThreshold1>
+          <CThreshold2>0</CThreshold2>
+          <rho>0</rho>
+          <theta>0</theta>
+          <threshold>0</threshold>
+          <length>0</length>
+          <gab>0</gab>
+        </ActionDataBase>
+        <ActionDataBase xsi:type="ActionMatchData">
+          <Group>GroupEnhance</Group>
+          <Type>ActionMatch</Type>
+          <Name>位置修正</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <fOffsetAngle>0</fOffsetAngle>
+          <fOffsetX>0</fOffsetX>
+          <fOffsetY>0</fOffsetY>
+          <iKeyPointNumber>0</iKeyPointNumber>
+          <fThreshlod>0</fThreshlod>
+          <time>0</time>
+        </ActionDataBase>
+      </listActionData>
+      <Name>1</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData>
+        <ActionDataBase xsi:type="ActionGatherData">
+          <Group>GroupReadImage</Group>
+          <Type>ActionGather</Type>
+          <Name>图像输入</Name>
+          <imageSrc>0</imageSrc>
+          <InputAOIX>0</InputAOIX>
+          <InputAOIY>0</InputAOIY>
+          <InputAOIWidth>0</InputAOIWidth>
+          <InputAOIHeight>0</InputAOIHeight>
+          <ModelAOIX>0</ModelAOIX>
+          <ModelAOIY>0</ModelAOIY>
+          <ModelAOIWidth>0</ModelAOIWidth>
+          <ModelAOIHeight>0</ModelAOIHeight>
+          <bROIReset>false</bROIReset>
+          <index>0</index>
+          <listCamParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+            <CameraParam>
+              <iShutterSpeed>2000</iShutterSpeed>
+              <iGain>10</iGain>
+              <ledCtrl>IO</ledCtrl>
+              <strControlCardName />
+              <iIoNum>0</iIoNum>
+              <strLedControllerName />
+              <iLuminance>50</iLuminance>
+              <iChannel>0</iChannel>
+              <strCamBingding />
+              <iWhiteBalanceR>0</iWhiteBalanceR>
+              <iWhiteBalanceG>0</iWhiteBalanceG>
+              <iWhiteBalanceB>0</iWhiteBalanceB>
+            </CameraParam>
+          </listCamParam>
+          <eimageSrc>Local</eimageSrc>
+          <iSrcCamIndex>0</iSrcCamIndex>
+        </ActionDataBase>
+      </listActionData>
+      <Name>2</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>3</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>4</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>5</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>6</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>7</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>8</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>9</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>10</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>11</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>12</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>13</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>14</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>15</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>16</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>17</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>18</Name>
+    </SceneData>
+    <SceneData>
+      <listActionData />
+      <Name>19</Name>
+    </SceneData>
+  </listSceneData>
+</VisionDoc>

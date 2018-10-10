@@ -1,0 +1,61 @@
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csprojResolveAssemblyReference.cache
+D:\Catl\Source\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+D:\Catl\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csprojResolveAssemblyReference.cache
+D:\Catl\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+D:\Catl\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+D:\Catl\Source\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+C:\Users\panzhangjian\Desktop\20180418\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+C:\Users\panzhangjian\Desktop\20180418\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+C:\Users\panzhangjian\Desktop\20180418\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csprojResolveAssemblyReference.cache
+C:\Users\panzhangjian\Desktop\20180418\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+C:\Users\panzhangjian\Desktop\20180418\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+C:\Users\panzhangjian\Desktop\20180418\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csprojResolveAssemblyReference.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+C:\Users\Zhangjian\Desktop\20180428\WorldPrecision\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csprojResolveAssemblyReference.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Catl - 宁德\G08 - Cleaning machine\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csprojResolveAssemblyReference.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+C:\Work\World Precision\Project\CATL\G08\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+D:\Catl\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+D:\Catl\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+D:\Catl\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+D:\Catl\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+D:\Catl\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+C:\Work\World Precision\Other\Frame\Source\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+F:\Zhangjian\Project\Other\F\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+F:\Zhangjian\Project\Other\F\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+F:\Zhangjian\Project\Other\F\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+F:\杨梦涛\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+F:\杨梦涛\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+F:\杨梦涛\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+F:\杨梦涛\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+F:\杨梦涛\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb
+F:\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.dll
+F:\WorldPrecision\OmronFins.NET\bin\Debug\OmronFins.NET.pdb
+F:\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.csproj.CoreCompileInputs.cache
+F:\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.dll
+F:\WorldPrecision\OmronFins.NET\obj\Debug\OmronFins.NET.pdb

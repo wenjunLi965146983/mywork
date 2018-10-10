@@ -1,0 +1,624 @@
+﻿namespace WorldGeneralLib.Vision.Actions.Match
+{
+    partial class FormActionMatch
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.tabImageSrcLocal = new System.Windows.Forms.TabControl();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.button1 = new System.Windows.Forms.Button();
+            this.btnSave = new System.Windows.Forms.Button();
+            this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.labelResult = new System.Windows.Forms.Label();
+            this.groupBox2 = new System.Windows.Forms.GroupBox();
+            this.btnConfirm = new System.Windows.Forms.Button();
+            this.tbThreshold = new System.Windows.Forms.TextBox();
+            this.tbKeyPoint = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
+            this.tbAngle = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.tbOffsetY = new System.Windows.Forms.TextBox();
+            this.tbOffsetX = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
+            this.btnTest = new System.Windows.Forms.Button();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.imageBox1 = new Emgu.CV.UI.ImageBox();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.btnClear = new System.Windows.Forms.Button();
+            this.btnShow = new System.Windows.Forms.Button();
+            this.btnModelOpen = new System.Windows.Forms.Button();
+            this.imageBox2 = new Emgu.CV.UI.ImageBox();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.ROIClear = new System.Windows.Forms.Button();
+            this.tbTime = new System.Windows.Forms.TextBox();
+            this.label6 = new System.Windows.Forms.Label();
+            this.imageBox3 = new Emgu.CV.UI.ImageBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.splitter1 = new BSE.Windows.Forms.Splitter();
+            this.panelRight = new BSE.Windows.Forms.Panel();
+            this.cmbImageSrc = new System.Windows.Forms.ComboBox();
+            this.panel1.SuspendLayout();
+            this.panel3.SuspendLayout();
+            this.tabImageSrcLocal.SuspendLayout();
+            this.tabPage2.SuspendLayout();
+            this.groupBox3.SuspendLayout();
+            this.groupBox2.SuspendLayout();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.imageBox1)).BeginInit();
+            this.tabPage3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.imageBox2)).BeginInit();
+            this.tabPage1.SuspendLayout();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.imageBox3)).BeginInit();
+            this.panelRight.SuspendLayout();
+            this.SuspendLayout();
+            // 
+            // panel1
+            // 
+            this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.panel3);
+            this.panel1.Controls.Add(this.splitter1);
+            this.panel1.Controls.Add(this.panelRight);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(1465, 879);
+            this.panel1.TabIndex = 1;
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.tabImageSrcLocal);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.Location = new System.Drawing.Point(271, 0);
+            this.panel3.Margin = new System.Windows.Forms.Padding(4);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(1194, 879);
+            this.panel3.TabIndex = 26;
+            // 
+            // tabImageSrcLocal
+            // 
+            this.tabImageSrcLocal.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tabImageSrcLocal.Controls.Add(this.tabPage2);
+            this.tabImageSrcLocal.Controls.Add(this.tabPage3);
+            this.tabImageSrcLocal.Controls.Add(this.tabPage1);
+            this.tabImageSrcLocal.Font = new System.Drawing.Font("新宋体", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.tabImageSrcLocal.Location = new System.Drawing.Point(4, 4);
+            this.tabImageSrcLocal.Margin = new System.Windows.Forms.Padding(4);
+            this.tabImageSrcLocal.Name = "tabImageSrcLocal";
+            this.tabImageSrcLocal.SelectedIndex = 0;
+            this.tabImageSrcLocal.Size = new System.Drawing.Size(1190, 909);
+            this.tabImageSrcLocal.TabIndex = 0;
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.tabPage2.Controls.Add(this.button1);
+            this.tabPage2.Controls.Add(this.btnSave);
+            this.tabPage2.Controls.Add(this.groupBox3);
+            this.tabPage2.Controls.Add(this.groupBox2);
+            this.tabPage2.Controls.Add(this.btnTest);
+            this.tabPage2.Controls.Add(this.panel2);
+            this.tabPage2.Location = new System.Drawing.Point(4, 26);
+            this.tabPage2.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(4);
+            this.tabPage2.Size = new System.Drawing.Size(1182, 879);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "参数设定";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(897, 639);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(100, 32);
+            this.button1.TabIndex = 8;
+            this.button1.Text = "Open";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
+            // btnSave
+            // 
+            this.btnSave.Location = new System.Drawing.Point(897, 679);
+            this.btnSave.Margin = new System.Windows.Forms.Padding(4);
+            this.btnSave.Name = "btnSave";
+            this.btnSave.Size = new System.Drawing.Size(100, 32);
+            this.btnSave.TabIndex = 5;
+            this.btnSave.Text = "确定";
+            this.btnSave.UseVisualStyleBackColor = true;
+            this.btnSave.Click += new System.EventHandler(this.btnSave_Click);
+            // 
+            // groupBox3
+            // 
+            this.groupBox3.Controls.Add(this.labelResult);
+            this.groupBox3.Location = new System.Drawing.Point(325, 591);
+            this.groupBox3.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox3.Name = "groupBox3";
+            this.groupBox3.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox3.Size = new System.Drawing.Size(495, 230);
+            this.groupBox3.TabIndex = 2;
+            this.groupBox3.TabStop = false;
+            this.groupBox3.Text = "Result";
+            // 
+            // labelResult
+            // 
+            this.labelResult.AutoSize = true;
+            this.labelResult.Location = new System.Drawing.Point(8, 43);
+            this.labelResult.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.labelResult.Name = "labelResult";
+            this.labelResult.Size = new System.Drawing.Size(0, 17);
+            this.labelResult.TabIndex = 6;
+            // 
+            // groupBox2
+            // 
+            this.groupBox2.Controls.Add(this.btnConfirm);
+            this.groupBox2.Controls.Add(this.tbThreshold);
+            this.groupBox2.Controls.Add(this.tbKeyPoint);
+            this.groupBox2.Controls.Add(this.label5);
+            this.groupBox2.Controls.Add(this.label2);
+            this.groupBox2.Controls.Add(this.tbAngle);
+            this.groupBox2.Controls.Add(this.label1);
+            this.groupBox2.Controls.Add(this.tbOffsetY);
+            this.groupBox2.Controls.Add(this.tbOffsetX);
+            this.groupBox2.Controls.Add(this.label4);
+            this.groupBox2.Controls.Add(this.label3);
+            this.groupBox2.Location = new System.Drawing.Point(8, 581);
+            this.groupBox2.Margin = new System.Windows.Forms.Padding(4);
+            this.groupBox2.Name = "groupBox2";
+            this.groupBox2.Padding = new System.Windows.Forms.Padding(4);
+            this.groupBox2.Size = new System.Drawing.Size(309, 240);
+            this.groupBox2.TabIndex = 1;
+            this.groupBox2.TabStop = false;
+            this.groupBox2.Text = "偏移设定";
+            // 
+            // btnConfirm
+            // 
+            this.btnConfirm.Location = new System.Drawing.Point(234, 10);
+            this.btnConfirm.Name = "btnConfirm";
+            this.btnConfirm.Size = new System.Drawing.Size(75, 23);
+            this.btnConfirm.TabIndex = 11;
+            this.btnConfirm.Text = "确认";
+            this.btnConfirm.UseVisualStyleBackColor = true;
+            this.btnConfirm.Click += new System.EventHandler(this.btnConfirm_Click);
+            // 
+            // tbThreshold
+            // 
+            this.tbThreshold.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbThreshold.Location = new System.Drawing.Point(117, 204);
+            this.tbThreshold.Margin = new System.Windows.Forms.Padding(4);
+            this.tbThreshold.Name = "tbThreshold";
+            this.tbThreshold.Size = new System.Drawing.Size(133, 26);
+            this.tbThreshold.TabIndex = 10;
+            this.tbThreshold.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbThreshold_KeyPress);
+            // 
+            // tbKeyPoint
+            // 
+            this.tbKeyPoint.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbKeyPoint.Location = new System.Drawing.Point(117, 168);
+            this.tbKeyPoint.Margin = new System.Windows.Forms.Padding(4);
+            this.tbKeyPoint.Name = "tbKeyPoint";
+            this.tbKeyPoint.Size = new System.Drawing.Size(133, 26);
+            this.tbKeyPoint.TabIndex = 9;
+            this.tbKeyPoint.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbKeyPoint_KeyPress);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(20, 213);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(107, 17);
+            this.label5.TabIndex = 8;
+            this.label5.Text = "Threshold：";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(20, 172);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(98, 17);
+            this.label2.TabIndex = 7;
+            this.label2.Text = "KeyPoint：";
+            // 
+            // tbAngle
+            // 
+            this.tbAngle.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbAngle.Location = new System.Drawing.Point(117, 127);
+            this.tbAngle.Margin = new System.Windows.Forms.Padding(4);
+            this.tbAngle.Name = "tbAngle";
+            this.tbAngle.Size = new System.Drawing.Size(133, 26);
+            this.tbAngle.TabIndex = 6;
+            this.tbAngle.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbAngle_KeyPress);
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Location = new System.Drawing.Point(20, 129);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(71, 17);
+            this.label1.TabIndex = 5;
+            this.label1.Text = "Angle：";
+            // 
+            // tbOffsetY
+            // 
+            this.tbOffsetY.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbOffsetY.Location = new System.Drawing.Point(117, 81);
+            this.tbOffsetY.Margin = new System.Windows.Forms.Padding(4);
+            this.tbOffsetY.Name = "tbOffsetY";
+            this.tbOffsetY.Size = new System.Drawing.Size(133, 26);
+            this.tbOffsetY.TabIndex = 4;
+            this.tbOffsetY.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbOffsetY_KeyPress);
+            // 
+            // tbOffsetX
+            // 
+            this.tbOffsetX.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbOffsetX.Location = new System.Drawing.Point(117, 40);
+            this.tbOffsetX.Margin = new System.Windows.Forms.Padding(4);
+            this.tbOffsetX.Name = "tbOffsetX";
+            this.tbOffsetX.Size = new System.Drawing.Size(133, 26);
+            this.tbOffsetX.TabIndex = 2;
+            this.tbOffsetX.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbOffsetX_KeyPress);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(20, 88);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(89, 17);
+            this.label4.TabIndex = 1;
+            this.label4.Text = "OffsetY：";
+            // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(20, 46);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(89, 17);
+            this.label3.TabIndex = 0;
+            this.label3.Text = "OffsetX：";
+            // 
+            // btnTest
+            // 
+            this.btnTest.Location = new System.Drawing.Point(1063, 779);
+            this.btnTest.Margin = new System.Windows.Forms.Padding(4);
+            this.btnTest.Name = "btnTest";
+            this.btnTest.Size = new System.Drawing.Size(100, 32);
+            this.btnTest.TabIndex = 3;
+            this.btnTest.Text = "Init";
+            this.btnTest.UseVisualStyleBackColor = true;
+            this.btnTest.Click += new System.EventHandler(this.btnTest_Click);
+            // 
+            // panel2
+            // 
+            this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel2.BackColor = System.Drawing.Color.Black;
+            this.panel2.Controls.Add(this.imageBox1);
+            this.panel2.Location = new System.Drawing.Point(16, 12);
+            this.panel2.Margin = new System.Windows.Forms.Padding(4);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(1150, 561);
+            this.panel2.TabIndex = 0;
+            // 
+            // imageBox1
+            // 
+            this.imageBox1.FunctionalMode = Emgu.CV.UI.ImageBox.FunctionalModeOption.PanAndZoom;
+            this.imageBox1.Location = new System.Drawing.Point(4, 4);
+            this.imageBox1.Name = "imageBox1";
+            this.imageBox1.Size = new System.Drawing.Size(1143, 543);
+            this.imageBox1.TabIndex = 2;
+            this.imageBox1.TabStop = false;
+            this.imageBox1.Click += new System.EventHandler(this.imageBox1_Click);
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.tabPage3.Controls.Add(this.btnClear);
+            this.tabPage3.Controls.Add(this.btnShow);
+            this.tabPage3.Controls.Add(this.btnModelOpen);
+            this.tabPage3.Controls.Add(this.imageBox2);
+            this.tabPage3.Location = new System.Drawing.Point(4, 26);
+            this.tabPage3.Margin = new System.Windows.Forms.Padding(4);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Size = new System.Drawing.Size(1182, 879);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "模版设定";
+            this.tabPage3.UseVisualStyleBackColor = true;
+            // 
+            // btnClear
+            // 
+            this.btnClear.Location = new System.Drawing.Point(26, 261);
+            this.btnClear.Margin = new System.Windows.Forms.Padding(4);
+            this.btnClear.Name = "btnClear";
+            this.btnClear.Size = new System.Drawing.Size(100, 32);
+            this.btnClear.TabIndex = 11;
+            this.btnClear.Text = "清除";
+            this.btnClear.UseVisualStyleBackColor = true;
+            this.btnClear.Click += new System.EventHandler(this.btnClear_Click);
+            // 
+            // btnShow
+            // 
+            this.btnShow.Location = new System.Drawing.Point(26, 41);
+            this.btnShow.Margin = new System.Windows.Forms.Padding(4);
+            this.btnShow.Name = "btnShow";
+            this.btnShow.Size = new System.Drawing.Size(100, 32);
+            this.btnShow.TabIndex = 6;
+            this.btnShow.Text = "Show";
+            this.btnShow.UseVisualStyleBackColor = true;
+            this.btnShow.Click += new System.EventHandler(this.btnShow_Click);
+            // 
+            // btnModelOpen
+            // 
+            this.btnModelOpen.Location = new System.Drawing.Point(26, 101);
+            this.btnModelOpen.Margin = new System.Windows.Forms.Padding(4);
+            this.btnModelOpen.Name = "btnModelOpen";
+            this.btnModelOpen.Size = new System.Drawing.Size(100, 32);
+            this.btnModelOpen.TabIndex = 4;
+            this.btnModelOpen.Text = "Open";
+            this.btnModelOpen.UseVisualStyleBackColor = true;
+            this.btnModelOpen.Click += new System.EventHandler(this.btnModelOpen_Click);
+            // 
+            // imageBox2
+            // 
+            this.imageBox2.FunctionalMode = Emgu.CV.UI.ImageBox.FunctionalModeOption.Minimum;
+            this.imageBox2.Location = new System.Drawing.Point(235, 12);
+            this.imageBox2.Name = "imageBox2";
+            this.imageBox2.Size = new System.Drawing.Size(648, 486);
+            this.imageBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.imageBox2.TabIndex = 3;
+            this.imageBox2.TabStop = false;
+            this.imageBox2.MouseDown += new System.Windows.Forms.MouseEventHandler(this.imageBox2_MouseDown);
+            this.imageBox2.MouseMove += new System.Windows.Forms.MouseEventHandler(this.imageBox2_MouseMove);
+            this.imageBox2.MouseUp += new System.Windows.Forms.MouseEventHandler(this.imageBox2_MouseUp);
+            // 
+            // tabPage1
+            // 
+            this.tabPage1.Controls.Add(this.panel4);
+            this.tabPage1.Location = new System.Drawing.Point(4, 26);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(1182, 879);
+            this.tabPage1.TabIndex = 3;
+            this.tabPage1.Text = "ROI设置";
+            this.tabPage1.UseVisualStyleBackColor = true;
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.ROIClear);
+            this.panel4.Controls.Add(this.tbTime);
+            this.panel4.Controls.Add(this.label6);
+            this.panel4.Controls.Add(this.imageBox3);
+            this.panel4.Controls.Add(this.button3);
+            this.panel4.Location = new System.Drawing.Point(0, 0);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(1193, 770);
+            this.panel4.TabIndex = 0;
+            // 
+            // ROIClear
+            // 
+            this.ROIClear.Location = new System.Drawing.Point(69, 332);
+            this.ROIClear.Margin = new System.Windows.Forms.Padding(4);
+            this.ROIClear.Name = "ROIClear";
+            this.ROIClear.Size = new System.Drawing.Size(100, 32);
+            this.ROIClear.TabIndex = 11;
+            this.ROIClear.Text = "清除";
+            this.ROIClear.UseVisualStyleBackColor = true;
+            this.ROIClear.Click += new System.EventHandler(this.ROIClear_Click);
+            // 
+            // tbTime
+            // 
+            this.tbTime.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.tbTime.Location = new System.Drawing.Point(118, 90);
+            this.tbTime.Margin = new System.Windows.Forms.Padding(4);
+            this.tbTime.Name = "tbTime";
+            this.tbTime.Size = new System.Drawing.Size(133, 26);
+            this.tbTime.TabIndex = 10;
+            this.tbTime.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbTime_KeyPress);
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(21, 96);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(98, 17);
+            this.label6.TabIndex = 9;
+            this.label6.Text = "缩放倍数：";
+            // 
+            // imageBox3
+            // 
+            this.imageBox3.FunctionalMode = Emgu.CV.UI.ImageBox.FunctionalModeOption.Minimum;
+            this.imageBox3.Location = new System.Drawing.Point(272, 14);
+            this.imageBox3.Name = "imageBox3";
+            this.imageBox3.Size = new System.Drawing.Size(648, 486);
+            this.imageBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.imageBox3.TabIndex = 8;
+            this.imageBox3.TabStop = false;
+            this.imageBox3.MouseDown += new System.Windows.Forms.MouseEventHandler(this.imageBox3_MouseDown);
+            this.imageBox3.MouseMove += new System.Windows.Forms.MouseEventHandler(this.imageBox3_MouseMove);
+            this.imageBox3.MouseUp += new System.Windows.Forms.MouseEventHandler(this.imageBox3_MouseUp);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(69, 201);
+            this.button3.Margin = new System.Windows.Forms.Padding(4);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(100, 32);
+            this.button3.TabIndex = 6;
+            this.button3.Text = "Open";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // splitter1
+            // 
+            this.splitter1.Location = new System.Drawing.Point(267, 0);
+            this.splitter1.Margin = new System.Windows.Forms.Padding(4);
+            this.splitter1.Name = "splitter1";
+            this.splitter1.Size = new System.Drawing.Size(4, 879);
+            this.splitter1.TabIndex = 24;
+            this.splitter1.TabStop = false;
+            // 
+            // panelRight
+            // 
+            this.panelRight.BackColor = System.Drawing.Color.Transparent;
+            this.panelRight.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.panelRight.CaptionFont = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.panelRight.CaptionForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panelRight.CloseIconForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.panelRight.CollapsedCaptionForeColor = System.Drawing.SystemColors.ControlText;
+            this.panelRight.ColorCaptionGradientBegin = System.Drawing.Color.FromArgb(((int)(((byte)(245)))), ((int)(((byte)(245)))), ((int)(((byte)(245)))));
+            this.panelRight.ColorCaptionGradientEnd = System.Drawing.SystemColors.ButtonShadow;
+            this.panelRight.ColorCaptionGradientMiddle = System.Drawing.Color.FromArgb(((int)(((byte)(242)))), ((int)(((byte)(242)))), ((int)(((byte)(242)))));
+            this.panelRight.ColorContentPanelGradientBegin = System.Drawing.Color.Empty;
+            this.panelRight.ColorContentPanelGradientEnd = System.Drawing.Color.Empty;
+            this.panelRight.Controls.Add(this.cmbImageSrc);
+            this.panelRight.Dock = System.Windows.Forms.DockStyle.Left;
+            this.panelRight.ForeColor = System.Drawing.SystemColors.ControlText;
+            this.panelRight.Image = null;
+            this.panelRight.InnerBorderColor = System.Drawing.Color.White;
+            this.panelRight.Location = new System.Drawing.Point(0, 0);
+            this.panelRight.Margin = new System.Windows.Forms.Padding(4);
+            this.panelRight.Name = "panelRight";
+            this.panelRight.ShowExpandIcon = true;
+            this.panelRight.ShowXPanderPanelProfessionalStyle = true;
+            this.panelRight.Size = new System.Drawing.Size(267, 879);
+            this.panelRight.TabIndex = 23;
+            this.panelRight.Text = "图像选择";
+            // 
+            // cmbImageSrc
+            // 
+            this.cmbImageSrc.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.cmbImageSrc.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.cmbImageSrc.Font = new System.Drawing.Font("微软雅黑", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
+            this.cmbImageSrc.FormattingEnabled = true;
+            this.cmbImageSrc.Items.AddRange(new object[] {
+            "相机 0",
+            "相机 1",
+            "相机 2",
+            "相机 3",
+            "相机 4",
+            "相机 5",
+            "相机 6",
+            "相机 7"});
+            this.cmbImageSrc.Location = new System.Drawing.Point(19, 44);
+            this.cmbImageSrc.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbImageSrc.Name = "cmbImageSrc";
+            this.cmbImageSrc.Size = new System.Drawing.Size(225, 28);
+            this.cmbImageSrc.TabIndex = 7;
+            this.cmbImageSrc.SelectedIndexChanged += new System.EventHandler(this.cmbDefaultCameraList_SelectedIndexChanged);
+            // 
+            // FormActionMatch
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(1465, 879);
+            this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
+            this.Name = "FormActionMatch";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "图像匹配";
+            this.Load += new System.EventHandler(this.FormActionMatch_Load);
+            this.panel1.ResumeLayout(false);
+            this.panel3.ResumeLayout(false);
+            this.tabImageSrcLocal.ResumeLayout(false);
+            this.tabPage2.ResumeLayout(false);
+            this.groupBox3.ResumeLayout(false);
+            this.groupBox3.PerformLayout();
+            this.groupBox2.ResumeLayout(false);
+            this.groupBox2.PerformLayout();
+            this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.imageBox1)).EndInit();
+            this.tabPage3.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.imageBox2)).EndInit();
+            this.tabPage1.ResumeLayout(false);
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.imageBox3)).EndInit();
+            this.panelRight.ResumeLayout(false);
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.Panel panel1;
+        private BSE.Windows.Forms.Panel panelRight;
+        private System.Windows.Forms.Panel panel3;
+        private BSE.Windows.Forms.Splitter splitter1;
+        private System.Windows.Forms.TabControl tabImageSrcLocal;
+        private System.Windows.Forms.TabPage tabPage2;
+        private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.ComboBox cmbImageSrc;
+        private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.GroupBox groupBox3;
+        private System.Windows.Forms.GroupBox groupBox2;
+        private System.Windows.Forms.TextBox tbOffsetY;
+        private System.Windows.Forms.TextBox tbOffsetX;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label labelResult;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnTest;
+        private Emgu.CV.UI.ImageBox imageBox1;
+        private System.Windows.Forms.Button btnSave;
+        private System.Windows.Forms.Button btnModelOpen;
+        private Emgu.CV.UI.ImageBox imageBox2;
+        private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox tbAngle;
+        private System.Windows.Forms.TextBox tbThreshold;
+        private System.Windows.Forms.TextBox tbKeyPoint;
+        private System.Windows.Forms.Button btnShow;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.Panel panel4;
+        private System.Windows.Forms.TextBox tbTime;
+        private System.Windows.Forms.Label label6;
+        private Emgu.CV.UI.ImageBox imageBox3;
+        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnConfirm;
+        private System.Windows.Forms.Button btnClear;
+        private System.Windows.Forms.Button ROIClear;
+    }
+}
